@@ -6,9 +6,21 @@ An initiative to get together and practice various software development techniqu
 
 A catalogue of various exercises we might try out. Feel free submit your idea in a pull request.
 
+### Submitting a new workout suggestions
+
+Just create a [new issue](https://github.com/Neurobics/workouts/issues/new) with the description for your exercise.
+
 ## When is the gym open?
 
-Once a month for approximately 2 hours.
+Once a month for approximately 2 hours. 
+
+### Quick links
+
+
+- [Our next workout](https://github.com/Neurobics/workouts/labels/Next)
+- [Schedule](https://github.com/Neurobics/workouts/labels/Scheduled)
+- [Suggested workouts](https://github.com/Neurobics/workouts/labels/Scheduled)
+
 
 ## Workout session
 
