@@ -19,7 +19,7 @@ Once a month for approximately 2 hours.
 
 - [Our next workout](https://github.com/Neurobics/workouts/labels/Next)
 - [Schedule](https://github.com/Neurobics/workouts/labels/Scheduled)
-- [Suggested workouts](https://github.com/Neurobics/workouts/labels/Scheduled)
+- [Suggested workouts](https://github.com/Neurobics/workouts/labels/Suggestion)
 
 
 ## Workout session
