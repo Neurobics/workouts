@@ -4,11 +4,11 @@ An initiative to get together and practice various software development techniqu
 
 ## Workouts repository
 
-A catalogue of various exercise we might try out. Feel free submit your idea in a pull request.
+A catalogue of various exercises we might try out. Feel free submit your idea in a pull request.
 
 ## When is the gym open?
 
-_TBD: once a month? twice a month?_
+Once a month for approximately 2 hours.
 
 ## Workout session
 
